@@ -15,7 +15,8 @@ Whether you're a cat owner, a cat lover, or just someone curious about these fur
 ## Technologies Used
 - HTML5 & CSS3 for structure and styling.
 - JavaScript for interactivity.
-- [Add any other technologies or frameworks you use.]
+- Frontend JavaScript
+- Backend Node JS
 
 ## Live Demo
   Will be uploaded later
