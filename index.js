@@ -13,5 +13,5 @@ document.getElementById("previous").addEventListener("click", function() {
 document.getElementById("next").addEventListener("click", function() {
     index = (index + 1) % images.length;
     slider.src = images[index];
-})
+});
 
